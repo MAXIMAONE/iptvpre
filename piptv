@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS | PREMIUM" tvg-logo="http://castlempire.site:8080/images/a9f7b586791f6709fc3213960b36ab2d.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/281633.ts
+#EXTINF:-1 tvg-id="FS2" tvg-name="4K | FOX SPORTS 2" tvg-logo="https://castlempire.site:443/images/16ffdacdde2bbc25fe7cad6e8aa07c0d.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/330411.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2" tvg-logo="http://castlempire.site:8080/images/2c0fb25c5554e4920dc84c9a319d0ff2.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/184456.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS 2 MEXICO FHD" tvg-logo="http://castlempire.site:8080/images/6316d4adefab0be6e3ab11ed8797ca78.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/181246.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 1 MX" tvg-logo="http://castlempire.site:8080/images/37367970b7a062593de7bd0b7d03c561.jpg" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169894.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 2 SD" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169891.ts
