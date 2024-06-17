@@ -1,51 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS | PREMIUM" tvg-logo="http://castlempire.site:8080/images/a9f7b586791f6709fc3213960b36ab2d.png" 
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/281633.ts
-#EXTINF:-1 tvg-id="FS2" tvg-name="4K | FOX SPORTS 2" tvg-logo="https://castlempire.site:443/images/16ffdacdde2bbc25fe7cad6e8aa07c0d.png" 
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/330411.ts
-#EXTINF:-1 tvg-id=""FOX SPORTS 2" tvg-logo="http://castlempire.site:8080/images/2c0fb25c5554e4920dc84c9a319d0ff2.png" 
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/184456.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS 2 MEXICO FHD" tvg-logo="http://castlempire.site:8080/images/6316d4adefab0be6e3ab11ed8797ca78.png" 
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/181246.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 1 MX" tvg-logo="http://castlempire.site:8080/images/37367970b7a062593de7bd0b7d03c561.jpg" 
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169894.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 2 SD" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" 
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169891.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD:SUR_CINEMAX" tvg-logo="http://castlempire.site:8080/images/cc2da8255e663c89441a56bbc28d6363.jpg" 
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190212.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD:SUR_DISCOVERY CHANNEL" tvg-logo="http://castlempire.site:8080/images/8c01d47506c5c3824c246bff46a87d46.jpg" 
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190084.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY TURBO" tvg-logo="http://castlempire.site:8080/images/c16fc0d14378a500c14fae4069b74807.png" 
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/171009.ts
-#EXTINF:-1 tvg-id="DISCOVERY MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Discovery-Logo.png"
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/171000.ts
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1000px-Comedy_Central_2018.svg.png"
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/170822.ts
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/172765.ts
-#EXTINF:-1 tvg-id="FOX ESPORTS 3" tvg-logo="https://multipress.com.mx/wp-content/uploads/2015/03/MULTI-FOX-NASCAR.jpg"
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/281630.ts
-#EXTINF:-1 tvg-id="FOX SPORT 2" tvg-logo="https://sfntv.co/webp/logos/optimized/fsport2.webp"
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/181277.ts
-#EXTINF:-1 tvg-id=""Fox Sports 2" tvg-logo="http://castlempire.site:8080/images/2cf5d5fc31884936f0cae9a785231988.jpg" 
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/170854.ts
-#EXTINF:-1 tvg-id="NATGEO MX" tvg-logo="https://greyboxcreativemain.b-cdn.net/wp-content/uploads/2020/01/National-Geographic-logo.jpg"
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/171024.ts
-#EXTINF:-1 tvg-id="TOONCAST MX" tvg-logo="https://i.ytimg.com/vi/x1FGEsyJxAM/maxresdefault.jpg"
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190645.ts
-#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-colorido-fundo-branco.jpg"
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190653.ts
-#EXTINF:-1 tvg-id="MLB NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png"
-https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/314724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cuna de lobos" tvg-logo="https://castlempire.site:443/images/e23a063e206f76036b9fd81e823336f5.png" 
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/196810.ts
+#EXTINF:-1 tvg-id="" tvg-name="La reyna del flow" tvg-logo="https://pics.filmaffinity.com/La_reina_del_flow_Serie_de_TV-355474403-large.jpg" 
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/196730.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 " tvg-logo="https://castlempire.site:443/images/ebf5b278428c812db637578f923a6d5e.png" 
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/169903.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://castlempire.site:443/images/d9d7db812c6258f7f895b465191e4ada.png" 
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/169902.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" 
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190692.ts
+#EXTINF:-1 tvg-id="D PELICULA +" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.jpg"
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/194200.ts
+#EXTINF:-1 tvg-id="" tvg-name="De Película Plus" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png" 
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190694.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="http://castlempire.site:8080/images/1314d4c37fd8fe8a3b175d3f784949a5.png" 
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190730.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="http://castlempire.site:8080/images/c13379cf94342e00fad267cb22a8b8f4.jpg" 
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190731.ts
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="http://castlempire.site:8080/images/923b1db7aea407ede3eee3b8aa53aab7.jpg" 
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190773.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZ HD" tvg-logo="https://castlempire.site:443/images/d2a7edf9897540e0d2ea1cd8dead034a.png"
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/169808.ts
+#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ HD" tvg-logo="http://castlempire.site:8080/images/b45220c396423f677c7a029f3c6955e5.png" 
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172774.ts
 
-
-#EXTINF:
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=""
-
+16 junio
