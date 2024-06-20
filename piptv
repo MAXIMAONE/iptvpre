@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Cuna de lobos" tvg-logo="https://castlempire.site:443/images/e23a063e206f76036b9fd81e823336f5.png" 
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/196810.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="La reyna del flow" tvg-logo="https://pics.filmaffinity.com/La_reina_del_flow_Serie_de_TV-355474403-large.jpg" 
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/196730.ts
 #EXTINF:-1 tvg-id="" ESPN PREMIUM FHD" tvg-logo="https://castlempire.site:443/images/a7954dd5b59a58911bde790bb42e575c.png"
@@ -39,14 +38,12 @@ https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190738.ts
 #EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg"
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190129.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD 2" tvg-logo="#EXTINF:-1 tvg-id="CANAL 5" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2020/04/Canal-5-videos.jpg"
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190682.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD" tvg-logo="https://castlempire.site:443/images/eff7b2d404c43a229ab0f7203aa5b986.png" 
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190682.ts
+https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190871.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Discovery Turbo HD" tvg-logo="http://castlempire.site:8080/images/b640432d94401e9f00b2b937e8d370de.png"
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190701.ts
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="http://castlempire.site:8080/images/0e2bcebdc68d2c85a8db50aaa1f981fe.png" 
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190772.ts
-#EXTINF:-1 tvg-id="" tvg-name="UTDN HD" tvg-logo="http://castlempire.site:8080/images/c11eb5c876d10684c0464b6c7ecbbe58.png" 
+#EXTINF:-1 tvg-id="TUDN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190776.ts
 #EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="http://castlempire.site:8080/images/04c26821a950cad7ec13a123a07a7dcf.jpg" 
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190771.ts
@@ -73,4 +70,4 @@ https://castlempire.site:443/23CAMILO4/nEaTENkjhu/169799.ts
 
 
 
-17 junio
+19 junio
