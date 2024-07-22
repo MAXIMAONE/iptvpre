@@ -123,7 +123,7 @@ https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190629.ts
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190768.ts
 #EXTINF:-1 tvg-id="" tvg-name="SD | Sony" tvg-logo="" group-title="SD Canales (+3 Mbps)",SD | Sony
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170888.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL HD" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg" group-title="CINEMA HD",CINE HD | STAR CHANNEL HD
+#EXTINF:-1 tvg-id="STAR" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg"
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172781.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Starz West HD_1080P" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_BD99vK7McUxJkKjgDAq2MEEbtFoz-43EQ&s" group-title="Pack StarZ",LA_FHD:Starz West HD_1080P
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190464.ts
@@ -157,7 +157,7 @@ https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172786.ts
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190689.ts
 #EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:CINEMAX" tvg-logo="https://logowik.com/content/uploads/images/cinemax-yellow7289.jpg" group-title="Argentina OP2",*ARG_SD:CINEMAX
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/173882.ts
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS FHD" tvg-logo="https://st1.uvnimg.com/1f/fd/e3e94edadea6ea4f0cd32421630a/las-estrellas-7.jpg"
+#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://st1.uvnimg.com/1f/fd/e3e94edadea6ea4f0cd32421630a/las-estrellas-7.jpg"
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190832.ts
 #EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMYATdw9SCKAQAh1P6F0oJU0yPb7ECGN6IA&s" group-title="SD Canales (+3 Mbps)",SD | Las Estrellas
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170873.ts
@@ -245,7 +245,7 @@ https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192645.ts
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192683.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hollywood" tvg-logo="http://castlempire.site:8080/images/434ef0b512534a43876f24342e606143.jpg" group-title="24/7 - Series",24/7 Hollywood
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192654.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 iCarly ( ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/ICarly_2021_logo.png" group-title="24/7 - Infantiles",24/7 iCarly ( ES)
+#EXTINF:-1 tvg-id="" tvg-name="iCarly " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/ICarly_2021_logo.png" group-title="24/7 - Infantiles"
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192643.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La familia P. Luche" tvg-logo="http://castlempire.site:8080/images/1ff5fcbb9045387ad164e7d1abd31baa.jpg" group-title="24/7 - Infantiles",24/7 La familia P. Luche
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192641.ts
@@ -265,7 +265,7 @@ https://castlempire.site:443/23CAMILO4/nEaTENkjhu/210854.ts
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/178422.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 RompePortones" tvg-logo="https://i.pinimg.com/564x/50/3f/1a/503f1a4970fd15d65c891dc82073ea3d.jpg"24/7 - TVShow y Comedia",24/7 RompePortones
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/215284.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sam y Cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Sam%26Cat_logo.png" group-title="24/7 - Infantiles",24/7 Sam y Cat
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sam y Cat" tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/14/13/25/266101.jpg" group-title="24/7 - Infantiles",24/7 Sam y Cat
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192648.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SAMUai X" tvg-logo="https://static.wikia.nocookie.net/samuraix/images/d/d2/Samurai_x.jpg/revision/latest?cb=20121126183437&path-prefix=es" group-title="24/7 - Anime",24/7 SAMUai X
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192530.ts
@@ -312,4 +312,4 @@ https://castlempire.site:443/23CAMILO4/nEaTENkjhu/169961.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS" tvg-logo="http://castlempire.site:8080/images/83809b85915b75f419634d5f19a64975.png" group-title="⚽DEPORTES HD-OP2",DEPORTES | DIRECTV SPORTS
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/181283.ts
 
-21/07
+OK
