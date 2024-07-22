@@ -1,5 +1,6 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+ 
+ 
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS PREMIUM" tvg-logo="http://castlempire.site:8080/images/7c869f8d86a560173f7ec0e6b72975b1.png" group-title="⚽DEPORTES HD-OP2",DEPORTES HD | FOX SPORTS PREMIUM
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/181258.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS PREMIUM MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="⚽Mexico Deportes",DEPORTES HD | FOX SPORTS PREMIUM MEX
@@ -156,7 +157,7 @@ https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172786.ts
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190689.ts
 #EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:CINEMAX" tvg-logo="https://logowik.com/content/uploads/images/cinemax-yellow7289.jpg" group-title="Argentina OP2",*ARG_SD:CINEMAX
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/173882.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | LAS ESTRELLAS FHD" tvg-logo="https://st1.uvnimg.com/1f/fd/e3e94edadea6ea4f0cd32421630a/las-estrellas-7.jpg" group-title="Mexico HD",MEXICO | LAS ESTRELLAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO | LAS ESTRELLAS FHD" tvg-logo="https://st1.uvnimg.com/1f/fd/e3e94edadea6ea4f0cd32421630a/las-estrellas-7.jpg" group-title="
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190832.ts
 #EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMYATdw9SCKAQAh1P6F0oJU0yPb7ECGN6IA&s" group-title="SD Canales (+3 Mbps)",SD | Las Estrellas
 https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170873.ts
