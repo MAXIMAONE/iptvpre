@@ -1,311 +1,123 @@
 #EXTM3U
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS PREMIUM" tvg-logo="http://castlempire.site:8080/images/7c869f8d86a560173f7ec0e6b72975b1.png" group-title="⚽DEPORTES HD-OP2",DEPORTES HD | FOX SPORTS PREMIUM
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/181258.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS PREMIUM MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="⚽Mexico Deportes",DEPORTES HD | FOX SPORTS PREMIUM MEX
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/223108.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deportes SD | Fox Sports" tvg-logo="http://castlempire.site:8080/images/83adaa8125b5937a26850d09e13ca61f.jpg" group-title="⚽DEPORTES SD",Deportes SD | Fox Sports
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/182336.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deportes SD | FoxSport 2" tvg-logo="http://castlempire.site:8080/images/8d139adb7eb26616e5d380a2a2fd5673.jpg" group-title="⚽DEPORTES SD",Deportes SD | FoxSport 2
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/182338.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 7" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="⚽DEPORTES HD",DEPORTES | FOX SPORTS 2 HD Arg
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/169955.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS 3 MEXICO FHD" tvg-logo="https://castlempire.site:443/images/7b6b35ce4a7737de3b5db0ac34e4bf01.png" group-title="⚽DEPORTES HD-OP2",DEPORTES HD | FOX SPORTS 3 MEXICO FHD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/181247.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_ARG:Fox Sports 3" tvg-logo="http://castlempire.site:8080/images/38e0548608cb12d5cbe601855c0b8cba.jpg" group-title="Mexico SD",LA_SD_MEX2:Fox Sports 3
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190598.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 | MEXICO" tvg-logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png" group-title="⚽DEPORTES HD-OP3",FOX SPORTS 3 | MEXICO
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/281630.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deportes HD | ESPN (720)" tvg-logo="https://castlempire.site:443/images/1f0829a73430645a15bfcae9b955bac9.png" group-title="⚽DEPORTES SD",Deportes HD | ESPN (720)
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/182333.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 1 MEXICO FHD\" tvg-logo="http://castlempire.site:8080/images/250124906e29f14ae64a4748f4ae406c.png" group-title="⚽Mexico Deportes",DEPORTES HD | ESPN 1 MEXICO FHD\
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/193205.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 2 MEXICO FHD\" tvg-logo="http://castlempire.site:8080/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="⚽Mexico Deportes",DEPORTES HD | ESPN 2 MEXICO FHD\
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/193206.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | ESPN 3 FHD" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="⚽DEPORTES HD-OP2",DEPORTES HD | ESPN 3 FHD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/181242.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN PLUS MEXICO\" tvg-logo="http://castlempire.site:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png" group-title="⚽Mexico Deportes",DEPORTES | ESPN PLUS MEXICO\
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/193211.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn Plus SD" tvg-logo="http://castlempire.site:8080/images/0e605c67fc56b7f5f4c2f40fd6dd6280.jpg" group-title="⚽DEPORTES SD",DEPORTES | Espn Plus SD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/169901.ts
-#EXTINF:-1 tvg-id="FSPREM" tvg-name="AR | ESPN PREMIUM FHD" tvg-logo="https://castlempire.site:443/images/a7954dd5b59a58911bde790bb42e575c.png" group-title="Argentina",AR | ESPN PREMIUM FHD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/342374.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | ANIMAL PLANET HD" tvg-logo="http://castlempire.site:8080/images/aae991412079ecdaced1d38f47aa8ff2.png" group-title="Cultura",CUL | ANIMAL PLANET HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170998.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | Animal planet" tvg-logo="http://castlempire.site:8080/images/baca836dfda1fb29c2f9d31f3347b72f.jpg" group-title="SD Canales (+3 Mbps)",SD | Animal planet
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170813.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | Discovery Channel HD" tvg-logo="http://castlempire.site:8080/images/c4ca4238a0b923820dcc509a6f75849b.jpg" group-title="Mexico HD",MEX | Discovery Channel HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190695.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD:DISCOVERY CHANNEL" tvg-logo="http://castlempire.site:8080/images/e5360599c8db1a2374ae3d7c8f6a9986.jpg" group-title="SD Kids Cine y Cultura",SD:DISCOVERY CHANNEL
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190083.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery Turbo" tvg-logo="http://castlempire.site:8080/images/3bb400c2c435054c15c573ab53b240f4.jpg" group-title="SD Canales (+3 Mbps)",SD | Discovery Turbo
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170828.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | Discovery Turbo HD" tvg-logo="http://castlempire.site:8080/images/b640432d94401e9f00b2b937e8d370de.png" group-title="Mexico HD",MEX | Discovery Turbo HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190701.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery science" tvg-logo="http://castlempire.site:8080/images/86ab9c19f186006e2b997c52a50ab2e8.jpg" group-title="SD Canales (+3 Mbps)",SD | Discovery science
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170829.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA Latino | TLNovelas Univision HD" tvg-logo="https://castlempire.site:443/images/9878d9ec1194c2f245bbca81055788f6.png" group-title="USA Latino",USA Latino | TLNovelas Univision HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170333.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Univision New York HD" tvg-logo="https://castlempire.site:443/images/81006e82283db51f682118cd3ac90075.png" group-title="USA Latino",USA Latino | Univision New York HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170332.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | WARNER CHANNEL HD (Dual Audio)" tvg-logo="http://castlempire.site:8080/images/420bcea1c453bd8ec6919889e847fb8b.png" group-title="CINEMA HD",CINE HD | WARNER CHANNEL HD (Dual Audio)
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172753.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | Warner" tvg-logo="http://castlempire.site:8080/images/4fdd874941dc0f539644a3e3b2d4570d.png" group-title="SD Canales (+3 Mbps)",SD | Warner
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170905.ts
-#EXTINF:-1 tvg-id="axn.es" tvg-name="ES | AXN HD" tvg-logo="http://castlempire.site:8080/images/9df9dc140d139200eaefb695973cbb91.png" group-title="España Cine",ES | AXN HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/173620.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | AXN HD" tvg-logo="https://televisiondirecta.files.wordpress.com/2015/06/axn-hd.jpg?w=275&h=200&crop=1" group-title="Mexico HD",MEX | AXN HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190666.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | Azteca 7" tvg-logo="https://castlempire.site:443/images/07046ccb6d37ff3686ed370fc60ae993.jpg" group-title="Mexico HD",MEXICO | Azteca 7
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190873.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | AZTECA 7 FHD" tvg-logo="https://i.imgur.com/ONDrAgg.png" group-title="Mexico HD",MEXICO | AZTECA 7 FHD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190822.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | AZTECA UNO FHD" tvg-logo="https://i.imgur.com/NiXDKgO.png" group-title="Mexico HD",MEXICO | AZTECA UNO FHD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190824.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Cartoon Network" tvg-logo="http://castlempire.site:8080/images/9a926d4e542d43ee393e434a4a2210bd.jpg" group-title="Mexico SD",LA_SD_MEX2:Cartoon Network
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190556.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | Cartoon Network HD" tvg-logo="http://castlempire.site:8080/images/e16365c2e82414955f7aa0bb4049f4f6.jpg" group-title="Mexico HD",MEX | Cartoon Network HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190687.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | AZ CINEMA HD" tvg-logo="https://castlempire.site:443/images/3dde585340e28ff1626b18780b5a7948.jpg" group-title="CINEMA HD",CINE HD | AZ CINEMA HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172754.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINECANAL HD" tvg-logo="http://castlempire.site:8080/images/d97c2fa9cbd9ad94e8946039e6140acf.png" group-title="CINEMA HD",CINE HD | CINECANAL HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172755.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="https://castlempire.site:443/images/0c644cb9cea063d21971ce1ef20abd70.png" group-title="CINEMA HD",CINE HD | CINEMAX (MX) HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172786.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA" tvg-logo="https://castlempire.site:443/images/7241fdbc6f26404e730ee228dd425e64.png" group-title="CINEMA HD",CINE HD | DE PELICULA
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172793.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA PLUS HD" tvg-logo="http://castlempire.site:8080/images/91ae5c55e9c75ed643aaf680d34cc476.jpg" group-title="CINEMA HD",CINE HD | DE PELICULA PLUS HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172756.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:De Pelicula" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Mexico SD",LA_SD_MEX2:De Pelicula Plus
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190561.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="https://castlempire.site:443/images/47ab407e7036326b2a877ad6e5bf330b.png" group-title="⚽DEPORTES HD-OP2",DEPORTES | CLARO SPORTS
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/181284.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD:CINE LATINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ76h0lRlTHE4TfHOcDP9L-eDsqmkoii78hg&s" group-title="SD Kids Cine y Cultura",SD:CINE LATINO
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190068.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine Latino 5" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSgM33SWAZcbF9k5jZhYdjZJV6wmF5SFR04WjIdZA=s900-c-k-c0x00ffffff-no-rj" group-title="Cine PPV latino",Cine Latino 5
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/197070.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | FX (MX) FHD" tvg-logo="http://castlempire.site:8080/images/5af46b08db5b3fdd9bc60aa62f6cf3aa.jpg" group-title="CINEMA HD",CINE HD | FX (MX) FHD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172748.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | FX FHD ( DUAL AUDIO)" tvg-logo="https://castlempire.site:443/images/3cd4bcee8fecd8c4afdeafa1acb8c5c6.png" group-title="CINEMA HD",CINE HD | FX FHD ( DUAL AUDIO)
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172799.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY CHANNEL" tvg-logo="http://castlempire.site:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="Cultura",CUL | HISTORY CHANNEL
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/171017.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY CHANNEL HD" tvg-logo="http://castlempire.site:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="Cultura",CUL | HISTORY CHANNEL HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/171016.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Latino HD" tvg-logo="https://castlempire.site:443/images/362ba4416f7bca8522353fd5d10ea50e.jpg" group-title="CINEMA HD",CINE HD | HBO Latino HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172796.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="SD Canales (+3 Mbps)",SD | HBO 2
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170906.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO SIGNATURE" tvg-logo="http://castlempire.site:8080/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="CINEMA HD",CINE | HBO SIGNATURE
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172805.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO FAMILY" tvg-logo="http://castlempire.site:8080/images/f08f34a9a78ffe43f634159aab3a521c.png" group-title="CINEMA HD",CINE HD | HBO FAMILY
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172789.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Plus" tvg-logo="http://castlempire.site:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CINEMA HD",CINE HD | HBO Plus
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172788.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO Xtreme" tvg-logo="https://castlempire.site:443/images/dfce16b808a8fc153ed3c5eca90f2c97.png" group-title="CINEMA HD",CINE | HBO Xtreme
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172804.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO" tvg-logo="http://castlempire.site:8080/images/02533372af53048a55cf973c53c4ce87.jpg" group-title="SD Canales (+3 Mbps)",SD | HBO
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170864.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | Milenio TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png" group-title="Mexico HD",MEXICO | Milenio TV HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190865.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | MTV HD" tvg-logo="http://castlempire.site:8080/images/8665530de2a328e921f312c5435bece2.jpg" group-title="Mexico HD",MEX | MTV HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190749.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | Mtv live" tvg-logo="http://castlempire.site:8080/images/cd8cef52185d44f663e1bdffc5e0c105.jpg" group-title="SD Canales (+3 Mbps)",SD | Mtv live
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170879.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | Mtv" tvg-logo="http://castlempire.site:8080/images/01028a1c1f5e370cb8810b4fdabf0a0c.jpg" group-title="SD Canales (+3 Mbps)",SD | Mtv
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170877.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | MTV Live HD" tvg-logo="http://castlempire.site:8080/images/0e60dec2ca8cc1bf1f99088d61e4d9a3.png" group-title="Mexico HD",MEX | MTV Live HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190751.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Sony" tvg-logo="http://castlempire.site:8080/images/4a2183cec835216ab7493623d137e087.jpg" group-title="Mexico SD",LA_SD_MEX2:Sony
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190629.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | Sony HD" tvg-logo="http://castlempire.site:8080/images/1c7472e17366b7764b571077eaa15794.png" group-title="Mexico HD",MEX | Sony HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190768.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | Sony" tvg-logo="" group-title="SD Canales (+3 Mbps)",SD | Sony
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170888.ts
-#EXTINF:-1 tvg-id="STAR" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg"
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172781.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Starz West HD_1080P" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_BD99vK7McUxJkKjgDAq2MEEbtFoz-43EQ&s" group-title="Pack StarZ",LA_FHD:Starz West HD_1080P
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190464.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | TCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdbhIGn_J72NHmHnXgEj6ZMNWsnObzjY1L_g&s" group-title="Mexico HD",MEX | TCM
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190775.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Telemundo Dallas" tvg-logo="http://castlempire.site:8080/images/90fd70e2ab5a41f9d3336c5cefbbb3d5.png" group-title="USA Latino",USA Latino | Telemundo Dallas
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170364.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - LS | TNT SPORTS HD" tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="⚽Deporte Latino",ARGENTINA - LS | TNT SPORTS HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/176374.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | TNT SERIES HD" tvg-logo="https://castlempire.site:443/images/aa4d253782deda272985b32d4ae798e5.png" group-title="CINEMA HD",CINE HD | TNT SERIES HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172752.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT SERIES" tvg-logo="https://castlempire.site:443/images/aa4d253782deda272985b32d4ae798e5.png" group-title="CINEMA HD",CINE | TNT SERIES
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172801.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | TNT" tvg-logo="http://castlempire.site:8080/images/fcf30b01227bfe3588de50820bd4df12.jpg" group-title="SD Canales (+3 Mbps)",SD | TNT
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170895.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD OP2" tvg-logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png" group-title="⚽Chile Deportes",TNT Sports HD OP2
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170103.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Studio Universal" tvg-logo="http://castlempire.site:8080/images/269fbfcd2b3c63451b5183b7c4531e2b.jpg" group-title="Mexico SD",LA_SD_MEX2:Studio Universal
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190632.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Universal Channel" tvg-logo="http://castlempire.site:8080/images/4e167fb095ac29d9f95e34633f44217a.jpg" group-title="Mexico SD",LA_SD_MEX2:Universal Channel
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190653.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME\" tvg-logo="http://castlempire.site:8080/images/15ddb979a6bfa0bfa739698b1e1cc1b8.png" group-title="Universal Channel",UNIVERSAL CRIME\
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/204895.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL | COMEDY FHD\" tvg-logo="http://castlempire.site:8080/images/1a0f6e50d6d521861cc81c952d705733.png" group-title="Universal Channel",UNIVERSAL | COMEDY FHD\
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/204897.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL | PREMIERE FHD\" tvg-logo="http://castlempire.site:8080/images/6512ce721d58f2024f3b32bf7336f8bb.png" group-title="Universal Channel",UNIVERSAL | PREMIERE FHD\
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/204896.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="https://castlempire.site:443/images/0c644cb9cea063d21971ce1ef20abd70.png" group-title="CINEMA HD",CINE HD | CINEMAX (MX) HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172786.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | Cinemax HD" tvg-logo="http://castlempire.site:8080/images/4f03e372991e0f4e92161ea98053133a.png" group-title="Mexico HD",MEX | Cinemax HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190689.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:CINEMAX" tvg-logo="https://logowik.com/content/uploads/images/cinemax-yellow7289.jpg" group-title="Argentina OP2",*ARG_SD:CINEMAX
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/173882.ts
-#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://st1.uvnimg.com/1f/fd/e3e94edadea6ea4f0cd32421630a/las-estrellas-7.jpg"
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190832.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMYATdw9SCKAQAh1P6F0oJU0yPb7ECGN6IA&s" group-title="SD Canales (+3 Mbps)",SD | Las Estrellas
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170873.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS HD" tvg-logo="http://castlempire.site:8080/images/24e9bb5923c89f7c9d48dd6ca386346f.png" group-title="Mexico OP3",CANAL DE LAS ESTRELLAS HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/257009.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ CINEMA HD" tvg-logo="http://castlempire.site:8080/images/c2fa4b08e88d929b9ec57c8ccd24ca4d.png" group-title="CINEMA HD",CINE HD | STARZ CINEMA HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172775.ts
-#EXTINF:-1 tvg-id="starzedge.us" tvg-name="CINE HD | STARZ EDGE" tvg-logo="http://castlempire.site:8080/images/92b5f338e9416e951d8facb93aa02b6d.png" group-title="CINEMA HD",CINE HD | STARZ EDGE
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172773.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Starz Encore Family HD_1080P" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGF-TgziX1vIK-hkZQiyPHRISMF2VaR_Wzg&s" group-title="Pack StarZ",LA_FHD:Starz Encore Family HD_1080P
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190470.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PLUS HD" tvg-logo="http://castlempire.site:8080/images/eb2ab735bdc31dd82b41d86b42602c4f.png" group-title="CINEMA HD",CINE HD | GOLDEN PLUS HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172762.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN EDGE HD" tvg-logo="http://castlempire.site:8080/images/a77bf929dd6c3c44d68e55c088c58a07.jpg" group-title="CINEMA HD",CINE HD | GOLDEN PREMIER HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172763.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SPACE HD" tvg-logo="http://castlempire.site:8080/images/d6ffad7e8fa45bed0bc6cfcc4719d9a6.jpg" group-title="CINEMA HD",CINE HD | SPACE HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172751.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD | Space" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Symbol.png" group-title="SD Canales (+3 Mbps)",SD | Space
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170890.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD:SUR_SPACE" tvg-logo="http://castlempire.site:8080/images/e8ba7d7409ebffad3063182fa84c42ba.jpg" group-title="SD Kids Cine y Cultura",SD:SUR_SPACE
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190248.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:TOONCAST" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="Argentina OP2",*ARG_SD:TOONCAST
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/173902.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Tooncast" tvg-logo="https://i.ytimg.com/vi/x1FGEsyJxAM/maxresdefault.jpg" group-title="Mexico SD",LA_SD_MEX2:Tooncast
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190645.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Comedy Central" tvg-logo="https://www.paramountshop.com/cdn/shop/files/comedycentral-mobile.png?v=1677264004" group-title="Mexico SD",LA_SD_MEX2:Comedy Central
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190560.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD:COMEDY CENTRAL" tvg-logo="http://castlempire.site:8080/images/41239228d56a0e21eedb342915b9ef13.png" group-title="SD Kids Cine y Cultura",SD:COMEDY CENTRAL
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190072.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SyFy FHD" tvg-logo="https://castlempire.site:443/images/215a0f5c5c2b34c843132285f2698d96.png" group-title="CINEMA HD",CINE HD | SyFy FHD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/172794.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | SyFy HD" tvg-logo="http://castlempire.site:8080/images/923b1db7aea407ede3eee3b8aa53aab7.jpg" group-title="Mexico HD",MEX | SyFy HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190773.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | TUDN SD" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="⚽DEPORTES HD-OP2",DEPORTES HD | TUDN SD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/181270.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | TUDN SD\" tvg-logo="https://cdn.milenio.com/uploads/media/2019/07/20/conoce-tudn-marca-televisa-univision-1_0_227_1200_746.jpg" group-title="⚽Mexico Deportes",DEPORTES HD | TUDN SD\
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/193209.ts
-#EXTINF:-1 tvg-id="" tvg-name="TUDN (exclusivo full hd)" tvg-logo="https://castlempire.site:443/images/50bd88b1cf5032738c1d758331ff5f46.png" group-title="⚽Mexico Deportes",TUDN (exclusivo full hd)
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/354333.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | Canal 5 HD" tvg-logo="https://castlempire.site:443/images/eff7b2d404c43a229ab0f7203aa5b986.png" group-title="Mexico HD",MEX | Canal 5 HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190682.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 HD" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2020/04/Canal-5-videos.jpg" group-title="Mexico OP3",CANAL 5 HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190871.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | CANAL 5" tvg-logo="https://i.imgur.com/DIfDwwu.png" group-title="Mexico HD",MEXICO | CANAL 5
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190840.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="https://pics.filmaffinity.com/el_chavo_del_8-387429057-large.jpg" group-title="24/7 - Retro",24/7 EL CHAVO DEL 8
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192710.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La familia P. Luche" tvg-logo="http://castlempire.site:8080/images/1ff5fcbb9045387ad164e7d1abd31baa.jpg" group-title="24/7 - Infantiles",24/7 La familia P. Luche
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192641.ts
-#EXTINF:-1 tvg-id="" tvg-name="13 Documentales" tvg-logo="http://castlempire.site:8080/images/15b4d204eb67f9c210d41fdeef097b9b.png" group-title="Chile Retro 24/7",13 Documentales
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/199502.ts
-#EXTINF:-1 tvg-id="" tvg-name="13 Now Kids" tvg-logo="http://castlempire.site:8080/images/d1a093ac4525892247bc959b1678e22c.png" group-title="24/7 - PRIME",13 Now Kids
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/186802.ts
-#EXTINF:-1 tvg-id="" tvg-name="2 Perros Tontos" tvg-logo="http://castlempire.site:8080/images/10b2708c3ba9a2a6b2ab3f6d44de3af6.png" group-title="24/7 - Cartoons",2 Perros Tontos
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/186812.ts
-#EXTINF:-1 tvg-id="" tvg-name="24-7 RETRO - Rewind TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5fd8a227bfcef77d8cd2bc6f50bc2578.webp" group-title="Musica",24-7 RETRO - Rewind TV
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/175092.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/ 7 THE BIG BANG THEORY TEMPORADA 1 - 6 HD 24/7." tvg-logo="https://logowik.com/content/uploads/images/the-big-bang-theory-tv-series3591.logowik.com.webp" group-title="24/7 - Retro",24/ 7 THE BIG BANG THEORY TEMPORADA 1 - 6 HD 24/7.
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/178452.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ASTRO BOY" tvg-logo="https://cdn2.steamgriddb.com/logo/b96fc38e5d7cd281aa67ba758a53ff63.png" group-title="24/7 - RetroAnimados",24/7 ASTRO BOY
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192563.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja" tvg-logo="https://i.ytimg.com/vi/GLBNqshvXTk/maxresdefault.jpg" group-title="24/7 - Infantiles",24/7 Bob Esponja
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192675.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO SD" tvg-logo="https://www.seekpng.com/png/detail/234-2346274_renders-saint-seiya-en-formato-png-logo-de.png" group-title="24/7 - RetroAnimados",24/7 CABALLEROS DEL ZODIACO SD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192676.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CINE MARVEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Marvel_Cinematic_Universe_logo.png" group-title="24/7 - PRIME Familiares-Kids",24/7 CINE MARVEL HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192544.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Curon" tvg-logo="http://castlempire.site:8080/images/6501b707dcc2e94a8fb1d272b1ad6686.jpg" group-title="24/7 - Series",24/7 Curon
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192647.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DANNY PHANTOM" tvg-logo="https://static.wikia.nocookie.net/vsdebating/images/9/96/A_danny_phantom_logo.png/revision/latest?cb=20170820204246" group-title="24/7 - PRIME Familiares-Kids",24/7 DANNY PHANTOM
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192497.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DEATH NOTE" tvg-logo="http://castlempire.site:8080/images/e98bf0318dcad621f91931dfafa8c315.jpg" group-title="24/7 - Anime",24/7 DEATH NOTE
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192572.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios" tvg-logo="https://img.elcinco.mx/s3fs-public/2020-06/neneconsentidokj.jpg" group-title="24/7 - Retro",24/7 Dinosaurios
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192680.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL." tvg-logo="https://e7.pngegg.com/pngimages/665/578/png-clipart-goku-logo-dragon-ball-kinto-un-goku.png" group-title="24/7 - Anime",24/7 DRAGON BALL.
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192702.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="" group-title="24/7 - Retro",24/7 EL CHAVO DEL 8
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192710.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El cuento de la criada" tvg-logo="http://castlempire.site:8080/images/07cb310963de9138534587c8ae1d0235.jpg" group-title="24/7 - Series",24/7 El cuento de la criada
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192645.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold" tvg-logo="https://ih1.redbubble.net/image.4968849530.0308/raf,750x1000,075,t,101010:01c5ca27c6.u2.jpg" group-title="24/7 - Infantiles",24/7 Hey Arnold
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192683.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hollywood" tvg-logo="http://castlempire.site:8080/images/434ef0b512534a43876f24342e606143.jpg" group-title="24/7 - Series",24/7 Hollywood
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192654.ts
-#EXTINF:-1 tvg-id="" tvg-name="iCarly " tvg-logo="https://www.formulatv.com/images/series/posters/300/385/dest_3.jpg" 
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192643.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La familia P. Luche" tvg-logo="http://castlempire.site:8080/images/1ff5fcbb9045387ad164e7d1abd31baa.jpg" group-title="24/7 - Infantiles",24/7 La familia P. Luche
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192641.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los magos de Waverly Place" tvg-logo="https://castlempire.site:443/images/15cf2d59f21c6e47d01d360d1ba3a6f2.png" group-title="24/7 - Infantiles",24/7 Los magos de Waverly Place
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192644.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the Middle" tvg-logo="http://castlempire.site:8080/images/ab6c0105d77b4475517315321747f389.jpg" group-title="24/7 - Series",24/7 Malcolm in the Middle
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192608.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MR BEAN" tvg-logo="http://castlempire.site:8080/images/70a1722bcd436ff010db8a8ceabb585f.png" group-title="24/7 - Retro",24/7 MR BEAN
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/193008.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1200px-Naruto_logo.svg.png" group-title="24/7 - Anime",24/7 Naruto
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192687.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 RANMA" tvg-logo="https://pics.filmaffinity.com/Ranma_Serie_de_TV-503084379-large.jpg" group-title="24/7 - Anime",24/7 RANMA
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192705.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rapidos y Furiosos SP" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fastx/title.png" group-title="24/7 - Peliculas",24/7 Rapidos y Furiosos SP
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/210854.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOTECH SERIE COMPLETA SD" tvg-logo="http://bp2.blogger.com/_VIMsikgUKaw/Rl5lH3QHC8I/AAAAAAAAABM/wAK1b-6a6ic/s320/Robotech_1024x768_jpg.jpg" group-title="24/7 - RetroAnimados",24/7 ROBOTECH SERIE COMPLETA SD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/178422.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 RompePortones" tvg-logo="https://i.pinimg.com/564x/50/3f/1a/503f1a4970fd15d65c891dc82073ea3d.jpg"24/7 - TVShow y Comedia",24/7 RompePortones
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/215284.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SAMUai X" tvg-logo="https://static.wikia.nocookie.net/samuraix/images/d/d2/Samurai_x.jpg/revision/latest?cb=20121126183437&path-prefix=es" group-title="24/7 - Anime",24/7 SAMUai X
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192530.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Spider-Man  (ES)" tvg-logo="http://castlempire.site:8080/images/8a7d9df84dc0765e21bd5b34e5f0df6f.jpg" group-title="24/7 - Peliculas",24/7 Spider-Man  (ES)
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192633.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry" tvg-logo="https://i.pinimg.com/originals/c2/20/31/c22031dff0ceea3b2571e85a4a2befca.jpg" group-title="24/7 - PRIME Familiares-Kids",24/7 Tom y Jerry
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192699.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Comedia Sangrienta (e)(1080)" tvg-logo="https://castlempire.site:443/images/4bfd253d94e0bb5cee0d7952fa3fdf1a.png" group-title="24/7 - Horror",24/7 VIP | Comedia Sangrienta (e)(1080)
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/196804.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Locos Addams" tvg-logo="https://castlempire.site:443/images/1e90925cc1f4f8ca499ce2429a401abf.png" group-title="24/7 - Retro",24/7 VIP | Los Locos Addams
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/196917.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Motel Bates (e)(720)" tvg-logo="https://castlempire.site:443/images/83ee2d7b6a1c40c442a2eeee0a261c7c.png" group-title="24/7 - Horror",24/7 VIP | Motel Bates (e)(720)
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/196949.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ZOIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/NC0_DVD1.jpg" group-title="24/7 - Anime",24/7 ZOIDS
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192600.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | SHREK" tvg-logo="http://castlempire.site:8080/images/67bc58e40eded44b2670ea67813e0d96.jpg" group-title="24/7 - Infantiles",24/7 | SHREK
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192618.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Avengers (ES)" tvg-logo="http://castlempire.site:8080/images/3514455ff8a62d1815d3586614ac6615.jpg" group-title="24/7 - Peliculas",24/7 | The Avengers (ES)
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192612.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | TOY STORY" tvg-logo="http://castlempire.site:8080/images/701820288eca6498ae9446f85401b901.jpg" group-title="24/7 - Infantiles",24/7 | TOY STORY
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/192619.ts
-#EXTINF:-1 tvg-id="" tvg-name="3 milagros" tvg-logo="https://artworks.thetvdb.com/banners/v4/series/317416/posters/63f1e313960e6.jpg" group-title="24/7 - Novelas",3 milagros
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/196720.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX | CNN en Español" tvg-logo="http://castlempire.site:8080/images/d33f4c888c5754da953b4a2de7982440.png" group-title="Mexico HD",MEX | CNN en Español
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/190690.ts
-#EXTINF:-1 tvg-id="" tvg-name="CR | TIGO SPORT COSTA RICA HD" tvg-logo="http://castlempire.site:8080/images/e0037b5444f0b18af674d0b6ffd7a72f.png" group-title="Costa Rica",CR | TIGO SPORT COSTA RICA HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170974.ts
-#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports HD (L)" tvg-logo="http://castlempire.site:8080/images/e0037b5444f0b18af674d0b6ffd7a72f.png" group-title="Costa Rica",CR | Tigo Sports HD (L)
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170976.ts
-#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports HD OPC 2" tvg-logo="http://castlempire.site:8080/images/e0037b5444f0b18af674d0b6ffd7a72f.png" group-title="Costa Rica",CR | Tigo Sports HD OPC 2
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170977.ts
-#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports HD OPC 3" tvg-logo="https://castlempire.site:443/images/dbcc84f346b1779b32e600266492ec30.png" group-title="Costa Rica",CR | Tigo Sports HD OPC 3
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170956.ts
-#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports HD OPC 4" tvg-logo="https://castlempire.site:443/images/dbcc84f346b1779b32e600266492ec30.png" group-title="Costa Rica",CR | Tigo Sports HD OPC 4
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/170933.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | H2" tvg-logo="http://castlempire.site:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG" group-title="Cultura",CUL | H2
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/171015.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NATGEO" tvg-logo="http://castlempire.site:8080/images/a312e46445dba307c57fd4a605ef5d30.png" group-title="Cultura",CUL | NATGEO
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/171025.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NATGEO HD" tvg-logo="http://castlempire.site:8080/images/a312e46445dba307c57fd4a605ef5d30.png" group-title="Cultura",CUL | NATGEO HD
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/171024.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORT 2" tvg-logo="http://castlempire.site:8080/images/ee3102c1c51a4bf53e43cfa41f800c89.jpg" group-title="⚽DEPORTES HD",DEPORTES | DIRECTV SPORT 2
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/169961.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS" tvg-logo="http://castlempire.site:8080/images/83809b85915b75f419634d5f19a64975.png" group-title="⚽DEPORTES HD-OP2",DEPORTES | DIRECTV SPORTS
-https://castlempire.site:443/23CAMILO4/nEaTENkjhu/181283.ts
 
-OK 02
+#EXTINF:-1 tvg-id="FS2" tvg-name=" ESPN 7 S" tvg-logo="https://i.pinimg.com/originals/f4/60/fb/f460fbd3bf84dffee99ce46a6ad489c4.jpg" group-title="⚽Deporte Latino",4K | FOX SPORTS 2
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/330411.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ESPN 6" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="⚽ Deportes",PE | 
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/170120.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD  | ESPN PREMIUM 2 HD" tvg-logo="https://i.ytimg.com/vi/sPVnEflYrRQ/maxresdefault.jpg" group-title="⚽DEPORTES HD-OP2",DEPORTES HD  | Fox Sports 1 Chile HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/181229.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="https://espnpressroom.com/latinamerica/files/2022/05/ESPN-Premium-.jpg" group-title="4K Canales",Fox Sports 1 4K
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/241182.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 1 MX" tvg-logo="http://castlempire.site:8080/images/37367970b7a062593de7bd0b7d03c561.jpg" group-title="⚽DEPORTES HD",DEPORTES | Fox Sports 1 MX
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/169894.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 1 FHD" tvg-logo="https://castlempire.site:443/images/a0c2c27459ec91202875c0a0cabd929a.png" group-title="⚽Chile Deportes",CH | FOX SPORTS 1 FHD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/170102.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 | MEXICO" tvg-logo="http://castlempire.site:8080/images/7638a14213eefad7fe1b7e52ab7da359.png" group-title="⚽DEPORTES HD-OP3",FOX SPORTS 1 | MEXICO
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/281617.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS 2 MEXICO FHD" tvg-logo="http://castlempire.site:8080/images/6316d4adefab0be6e3ab11ed8797ca78.png" group-title="⚽DEPORTES HD-OP2",DEPORTES HD | FOX SPORTS 2 MEXICO FHD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/181246.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 | MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="⚽DEPORTES HD-OP3",FOX SPORTS 2 | MEXICO
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/281624.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 | MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Fox_Sports_3_Logo_2022.png" group-title="⚽DEPORTES HD-OP3",FOX SPORTS 3 | MEXICO
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:ESPN 2 MX" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/2000px-ESPN2_logo-2000x429-356214219.png" group-title="⚽DEPORTES SD",LA_SD:ESPN 2 MX
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/190104.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://castlempire.site:443/images/0a5c8f8efa61c38de647f85a9ba167f1.png" group-title="Argentina",AR | FOX SPORTS 3
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/184457.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://www.insidehook.com/wp-content/uploads/2020/10/espn-paywall-logo-e1603373649991.jpg?fit=1181%2C800" group-title="⚽Chile Deportes",CH | ESPN CHILE
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/170202.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 MEXICO" tvg-logo="https://castlempire.site:443/images/902f5b2bf3c33c62fe1f2d9bc86ce29e.png" group-title="⚽DEPORTES HD-OP2",DEPORTES | ESPN 2 MEXICO
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/181280.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 MEXICO" tvg-logo="http://castlempire.site:8080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="⚽DEPORTES HD-OP2",DEPORTES | ESPN 3 MEXICO
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/181279.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 SUR FHD" tvg-logo="https://castlempire.site:443/images/af8fadf16a2e891e187ac17667f9a576.png" group-title="⚽DEPORTES HD",DEPORTES | ESPN 3 SUR FHD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/169970.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN PLUS MEXICO" tvg-logo="http://castlempire.site:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png" group-title="⚽DEPORTES HD-OP2",DEPORTES | ESPN PLUS MEXICO
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/181272.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEX |  ESPN MX" tvg-logo="https://castlempire.site:443/images/d9d7db812c6258f7f895b465191e4ada.png" group-title="Mexico HD",MEX |  ESPN MX
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/169902.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC 24/7 | UFC TV" tvg-logo="https://castlempire.site:443/images/683ac82e43ce542e5a584601e3173845.png" group-title="Sports Network",UFC 24/7 | UFC TV
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/344903.ts
+#EXTINF:-1 tvg-id="" tvg-name="Deportes SD | FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="⚽DEPORTES SD",Deportes SD | FOX SPORTS HD (720)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/182337.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="https://castlempire.site:443/images/6285c99aa1041db450bfeb8a61b40aae.png" group-title="►PACK  F1-TENNIS-CICLISMO",DAZN F1 HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/235089.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - LS | TNT SPORTS HD OPC 2" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_vbig.jpg" group-title="⚽Deporte Latino",ARGENTINA - LS | TNT SPORTS HD OPC 2
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176373.ts
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="CINE HD | AMC HD" tvg-logo="http://castlempire.site:8080/images/e7aa879e9a70a5779ba71d7e8eb0ab71.jpg" group-title="CINEMA HD",CINE HD | AMC HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172747.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | AZ CINEMA HD" tvg-logo="https://castlempire.site:443/images/3dde585340e28ff1626b18780b5a7948.jpg" group-title="CINEMA HD",CINE HD | AZ CINEMA HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172754.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINECANAL HD" tvg-logo="http://castlempire.site:8080/images/d97c2fa9cbd9ad94e8946039e6140acf.png" group-title="CINEMA HD",CINE HD | CINECANAL HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172755.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="https://castlempire.site:443/images/0c644cb9cea063d21971ce1ef20abd70.png" group-title="CINEMA HD",CINE HD | CINEMAX (MX) HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172786.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA" tvg-logo="https://castlempire.site:443/images/7241fdbc6f26404e730ee228dd425e64.png" group-title="CINEMA HD",CINE HD | DE PELICULA
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172793.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA PLUS HD" tvg-logo="http://castlempire.site:8080/images/91ae5c55e9c75ed643aaf680d34cc476.jpg" group-title="CINEMA HD",CINE HD | DE PELICULA PLUS HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172756.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | FX (MX) FHD" tvg-logo="http://castlempire.site:8080/images/5af46b08db5b3fdd9bc60aa62f6cf3aa.jpg" group-title="CINEMA HD",CINE HD | FX (MX) FHD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172748.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | FX (MX) FHD" tvg-logo="http://castlempire.site:8080/images/5af46b08db5b3fdd9bc60aa62f6cf3aa.jpg" group-title="CINEMA HD",CINE HD | FX (MX) FHD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172748.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PLUS HD" tvg-logo="http://castlempire.site:8080/images/eb2ab735bdc31dd82b41d86b42602c4f.png" group-title="CINEMA HD",CINE HD | GOLDEN PLUS HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172762.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PREMIER HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="CINEMA HD",CINE HD | GOLDEN PREMIER HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172763.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO FAMILY" tvg-logo="http://castlempire.site:8080/images/f08f34a9a78ffe43f634159aab3a521c.png" group-title="CINEMA HD",CINE HD | HBO FAMILY
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172789.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO HD Latino ( Dual audio)" tvg-logo="https://castlempire.site:443/images/362ba4416f7bca8522353fd5d10ea50e.jpg" group-title="CINEMA HD",CINE HD | HBO HD Latino ( Dual audio)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172795.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Latino HD" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="CINEMA HD",CINE HD | HBO Latino HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172796.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Plus" tvg-logo="http://castlempire.site:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CINEMA HD",CINE HD | HBO Plus
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172788.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Pop" tvg-logo="http://castlempire.site:8080/images/97e21068a9bab4e4cce283960b479925.png" group-title="CINEMA HD",CINE HD | HBO Pop
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172790.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO SIGNATURE" tvg-logo="https://castlempire.site:443/images/a016fdba0c0b0fed33138b11295122b9.png" group-title="CINEMA HD",CINE HD | HBO SIGNATURE
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172787.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Xtreme HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/HBO_Xtreme.png/revision/latest?cb=20200129203206" group-title="CINEMA HD",CINE HD | HBO Xtreme HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172797.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | MOREMAX" tvg-logo="http://castlempire.site:8080/images/b303ad821d6579919dcf17de5aa4bdd4.png" group-title="CINEMA HD",CINE HD | MOREMAX
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172780.ts
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="CINE HD | OUTERMAX" tvg-logo="http://castlempire.site:8080/images/f23370372587e661adcf82cf88f8170e.png" group-title="CINEMA HD",CINE HD | OUTERMAX
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172779.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | PARAMOUNT CHANNEL HD" tvg-logo="http://castlempire.site:8080/images/d25fa0ae715c2edc2fb1df9bff4b9956.jpg" group-title="CINEMA HD",CINE HD | PARAMOUNT CHANNEL HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172749.ts
+#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="CINE HD | SHOWTIME BEYOND" tvg-logo="http://castlempire.site:8080/images/8e050b11ac15d3a8665321085a53c3c3.png" group-title="CINEMA HD",CINE HD | SHOWTIME BEYOND
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172778.ts
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="CINE HD | SHOWTIME HD" tvg-logo="http://castlempire.site:8080/images/251c00d5bf14a655404b9ae47321e82f.png" group-title="CINEMA HD",CINE HD | SHOWTIME HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172777.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SONY HD" tvg-logo="http://castlempire.site:8080/images/f076787fd920f0c17593d8fb29d5ea22.jpg" group-title="CINEMA HD",CINE HD | SONY HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172750.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SPACE HD" tvg-logo="http://castlempire.site:8080/images/d6ffad7e8fa45bed0bc6cfcc4719d9a6.jpg" group-title="CINEMA HD",CINE HD | SPACE HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172751.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL HD" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/Star-Life-Logo.png" group-title="CINEMA HD",CINE HD | STAR CHANNEL HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172781.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ CINEMA HD" tvg-logo="http://castlempire.site:8080/images/c2fa4b08e88d929b9ec57c8ccd24ca4d.png" group-title="CINEMA HD",CINE HD | STARZ CINEMA HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172775.ts
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="CINE HD | STARZ EDGE" tvg-logo="http://castlempire.site:8080/images/92b5f338e9416e951d8facb93aa02b6d.png" group-title="CINEMA HD",CINE HD | STARZ EDGE
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172773.ts
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="CINE HD | STARZ ENCORE SUSPENSE" tvg-logo="http://castlempire.site:8080/images/cc5dbf47210a697d7334dc192e6718de.png" group-title="CINEMA HD",CINE HD | STARZ ENCORE SUSPENSE
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172769.ts
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="CINE HD | STARZ ENCORE WESTERN" tvg-logo="https://castlempire.site:443/images/27731c9b72f71ae0ba8135c3b47ad866.png" group-title="CINEMA HD",CINE HD | STARZ ENCORE WESTERN
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172768.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SyFy FHD" tvg-logo="https://castlempire.site:443/images/215a0f5c5c2b34c843132285f2698d96.png" group-title="CINEMA HD",CINE HD | SyFy FHD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172794.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | TNT SERIES HD" tvg-logo="https://castlempire.site:443/images/aa4d253782deda272985b32d4ae798e5.png" group-title="CINEMA HD",CINE HD | TNT SERIES HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172752.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | DIRECTV SPORTS + FHD" tvg-logo="https://castlempire.site:443/images/a072d3566d2db699354c2939194eec59.png" group-title="⚽DEPORTES HD-OP2",DEPORTES HD | DIRECTV SPORTS + FHD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/181256.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | CLARO  SPORTS SUR (L)" tvg-logo="http://castlempire.site:8080/images/a174365f8f272c623d9921fc7f74d24a.png" group-title="⚽DEPORTES HD-OP2",DEPORTES HD | CLARO  SPORTS SUR (L)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/181261.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT SERIES" tvg-logo="https://castlempire.site:443/images/aa4d253782deda272985b32d4ae798e5.png" group-title="CINEMA HD",CINE | TNT SERIES
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172801.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | UNIVERSAL CRIMEN" tvg-logo="https://i.ytimg.com/vi/SCKn8k0sqok/maxresdefault.jpg" group-title="CINEMA HD",CINE HD | STAR FUN
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172782.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | UNIVERSAL PREMIER" tvg-logo="https://i.ytimg.com/vi/RT2C4PGI79Y/maxresdefault.jpg" group-title="CINEMA HD",CINE HD | STAR HITS HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172760.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Universal Channel" tvg-logo="http://castlempire.site:8080/images/4e167fb095ac29d9f95e34633f44217a.jpg" group-title="Mexico SD",LA_SD_MEX2:Universal Channel
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/190653.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA Kids | Universal Kids HD" tvg-logo="https://castlempire.site:443/images/bd7483c4c459d122f62537483de26c7d.png" group-title="USA Kids",USA Kids | Universal Kids HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/170317.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Studio Universal" tvg-logo="http://castlempire.site:8080/images/269fbfcd2b3c63451b5183b7c4531e2b.jpg" group-title="Mexico SD",LA_SD_MEX2:Studio Universal
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/190632.ts
