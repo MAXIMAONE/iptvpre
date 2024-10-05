@@ -1,34 +1,16 @@
+#EXTM3U 
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="D| ESPN CL  HD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="Deportes",D| ESPN CL  HD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1150
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="D| ESPN Deportes  HD" tvg-logo="https://i.imgur.com/U3kYLKO.png" group-title="Deportes",D| ESPN Deportes  HD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1989
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="D| ESPN Deportes FHD" tvg-logo="https://i.imgur.com/U3kYLKO.png" group-title="Deportes",D| ESPN Deportes FHD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/247
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="D| ESPN Extra 4" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg" group-title="Deportes",D| ESPN Extra 4
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1991
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes" tvg-logo="https://www.logolynx.com/images/logolynx/a6/a6e8875d7685df7b35bc74a7755baead.jpeg" group-title="Deportes",D| FOX Deportes
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1931
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes  HD" tvg-logo="https://www.logolynx.com/images/logolynx/a6/a6e8875d7685df7b35bc74a7755baead.jpeg" group-title="Deportes",D| FOX Deportes  HD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1322
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| FOX Sports 1 ARG" tvg-logo="https://i.imgur.com/MrLBavf.png" group-title="Deportes",D| FOX Sports 1 ARG
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1752
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| FOX Sports 1 ARG  HD" tvg-logo="https://i.imgur.com/MrLBavf.png" group-title="Deportes",D| FOX Sports 1 ARG  HD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1750
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="D| FOX Sports 1 CL" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 CL
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1062
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="D| FOX Sports 1 CL  HD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 CL  HD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1996
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports 1 MX" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 MX
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1753
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports 1 MX  HD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 MX  HD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1751
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports 1 MX FHD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 MX FHD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1749
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| FOX Sports 2 ARG" tvg-logo="https://i.imgur.com/KevgRf3.png" group-title="Deportes",D| FOX Sports 2 ARG
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1744
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| FOX Sports 2 ARG  HD" tvg-logo="https://i.imgur.com/KevgRf3.png" group-title="Deportes",D| FOX Sports 2 ARG  HD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1742
-
+#EXTINF:-1 tvg-id="Clasicos de Disney" tvg-name="" tvg-logo="" 
+http://192.168.0.43:34400/stream/6ff9c5318da731a07cfd7e80153fa5c4
+#EXTINF:-1 tvg-id="dinos" tvg-name="" tvg-logo=""
+http://192.168.0.43:34400/stream/d6dc7301e7276d6687a78ecc54ec539d
+#EXTINF:-1 tvg-id="don gato" tvg-name="" tvg-logo=""
+http://192.168.0.43:34400/stream/a9551c55318201f3fa02995ca42150f2
+#EXTINF:-1 tvg-id="histori" tvg-name="" tvg-logo=""
+http://192.168.0.43:34400/stream/200abfc401e229f11e86b84162090a84
+#EXTINF:-1 tvg-id="espn" tvg-name="" tvg-logo=""
+http://192.168.0.43:34400/stream/e5962a20df387553cdf72e35c04b519a
+#EXTINF:-1 tvg-id="fox" tvg-name="" tvg-logo=""
+http://192.168.0.43:34400/stream/3240e0ccee7c234cc0a6b96a0740ffeb
+#EXTINF:-1 tvg-id="eurosport" tvg-name="" tvg-logo=""
+http://192.168.0.43:34400/stream/433b2e36d0799aa5aa5b9dcd04b49fbd
