@@ -1,16 +1,1 @@
-#EXTM3U 
 
-#EXTINF:-1 tvg-id="Clasicos de Disney" tvg-name="" tvg-logo="" 
-http://192.168.0.43:34400/stream/6ff9c5318da731a07cfd7e80153fa5c4
-#EXTINF:-1 tvg-id="dinos" tvg-name="" tvg-logo=""
-http://192.168.0.43:34400/stream/d6dc7301e7276d6687a78ecc54ec539d
-#EXTINF:-1 tvg-id="don gato" tvg-name="" tvg-logo=""
-http://192.168.0.43:34400/stream/a9551c55318201f3fa02995ca42150f2
-#EXTINF:-1 tvg-id="histori" tvg-name="" tvg-logo=""
-http://192.168.0.43:34400/stream/200abfc401e229f11e86b84162090a84
-#EXTINF:-1 tvg-id="espn" tvg-name="" tvg-logo=""
-http://192.168.0.43:34400/stream/e5962a20df387553cdf72e35c04b519a
-#EXTINF:-1 tvg-id="fox" tvg-name="" tvg-logo=""
-http://192.168.0.43:34400/stream/3240e0ccee7c234cc0a6b96a0740ffeb
-#EXTINF:-1 tvg-id="eurosport" tvg-name="" tvg-logo=""
-http://192.168.0.43:34400/stream/433b2e36d0799aa5aa5b9dcd04b49fbd
