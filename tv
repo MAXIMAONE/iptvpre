@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="REDBULL" tvg-logo="https://pbs.twimg.com/card_img/1840011503992492032/QnoUSI3b?format=png&name=360x360"
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Clasicos de Disney" tvg-logo="https://imgur.com/bnW3TtE.png" 
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1950
 #EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="https://ih1.redbubble.net/image.3790899799.4176/st,large,507x507-pad,600x600,f8f8f8.jpg" 
@@ -37,6 +36,8 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/507
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1952
 #EXTINF:-1 tvg-id="" tvg-name="Marvel Cine Animation" tvg-logo="https://i.ibb.co/SBTPVYF/40556.jpg" group-title="
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1331
+#EXTINF:-1 tvg-id="" tvg-name="HGTV  HD" tvg-logo="https://i.imgur.com/1deSTY7.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097981
 #EXTINF:-1 tvg-id="" tvg-name="Pedro Infante" tvg-logo="http://i.imgur.com/0Xfktas.png" group-title="
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1078100
 #EXTINF:-1 tvg-id="" tvg-name="Picardía Mexicana" tvg-logo="https://i.imgur.com/v6kIKp1.png" 
@@ -65,8 +66,6 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/1098193
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097967
 #EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="Film & Arts  HD" tvg-logo="https://i.imgur.com/mXDfidu.png" 
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097971
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.imgur.com/1deSTY7.png" 
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1098150
 #EXTINF:-1 tvg-id="" tvg-name="HGTV  HD" tvg-logo="https://i.imgur.com/1deSTY7.png" 
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097981
 #EXTINF:-1 tvg-id="" tvg-name="History  FHD" tvg-logo="https://i.imgur.com/lhuH7zF.png" 
@@ -367,4 +366,7 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/3738
 http://gzytv.vip:8880/654329/rjgAbmEB7c/3966
 #EXTINF:-1 tvg-id="" tvg-name="Exp MX | 19:00 Hrs | Tapato vs Venados" tvg-logo="http://startv.solutions:80/images/wc_e_vDBHAgXfMayxgd8gzEAY2RqIvOkjS1T1gN2kFy9PcgqD9LSeUGkzNRwoxd6QJs66EnLcnjYmbJDDviRB1jt6fHChvlEKQMqfwhvy4ScEH5hSSVN0meZhRdLT_oA1NzKCfdhB9bpxC5Ol7zR9KvL16t6VtWk0GBltaRDgDXAMaTCYWdMsTKOz72nWi_BTOpttoufFvy_nISgHtbeAA.png"
 http://gzytv.vip:8880/654329/rjgAbmEB7c/4301
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="Nat Geo  HD" tvg-logo="https://i.ibb.co/yk62mbs/nat-geo.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1267
 
+OK2
