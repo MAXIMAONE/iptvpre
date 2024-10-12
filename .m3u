@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="REDBULL" tvg-logo="https://pbs.twimg.com/card_img/1840011503992492032/QnoUSI3b?format=png&name=360x360"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clasicos de Disney" tvg-logo="https://imgur.com/bnW3TtE.png" 
@@ -318,7 +318,7 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/956
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1772
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 01" tvg-logo="https://i.imgur.com/b0lypV3.png"
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1768
-#EXTINF:-1 tvg-id="DTV1610" tvg-name="DP| Directv Sports" tvg-logo="https://i.imgur.com/G478cGU.png" group-title="Deportes Premium",DP| Directv Sports
+#EXTINF:-1 tvg-id="DTV1610" tvg-name="DP| Directv Sports" tvg-logo="https://i.imgur.com/G478cGU.png" 
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1776
 #EXTINF:-1 tvg-id="DTV1610" tvg-name="Directv Sports" tvg-logo="https://i.imgur.com/G478cGU.png" 
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1776
