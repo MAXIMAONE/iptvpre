@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+
 #EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="https://ih1.redbubble.net/image.3790899799.4176/st,large,507x507-pad,600x600,f8f8f8.jpg" 
 http://gzytv.vip:8880/654329/rjgAbmEB7c/537
 #EXTINF:-1 tvg-id="" tvg-name="Don Gato y Su Pandilla" tvg-logo="https://imgur.com/v9OY7Nv.png" 
@@ -158,8 +158,6 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/2509
 http://gzytv.vip:8880/654329/rjgAbmEB7c/2510
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="https://i.imgur.com/ux0YZse.png"
 http://gzytv.vip:8880/654329/rjgAbmEB7c/2511
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP  HD" tvg-logo="https://i.imgur.com/MwzFsi5.png"
-http://gzytv.vip:8880/654329/rjgAbmEB7c/810
 #EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme  HD" tvg-logo="https://i.imgur.com/yC1ZREX.png"
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1548
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network  HD" tvg-logo="https://i.imgur.com/cBOtP8a.png" 
@@ -333,4 +331,4 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/1267
 #EXTINF:-1 tvg-id="fox sports*" tvg-logo="https://cat.com.mx/wp-content/uploads/2018/05/logo-fox-sports.jpg"
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1749
 
-miercoles 2,,
+miercoles 2OKL
